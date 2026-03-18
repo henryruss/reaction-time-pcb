@@ -1,5 +1,5 @@
-![PCB Layout](images/pcb-layout.png)
-![Schematic](images/pcb-schematic.png)
+![PCB Layout](reaction-game/pcb-layout.png)
+![Schematic](reaction-game/pcb-schematic.png)
 
 # Custom PCB — Reaction Time Game
 
