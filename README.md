@@ -1,3 +1,6 @@
+![PCB Layout](images/pcb-layout.png)
+![Schematic](images/pcb-schematic.png)
+
 # Custom PCB — Reaction Time Game
 
 A two-player reaction time game on a custom-designed PCB. A white LED 
